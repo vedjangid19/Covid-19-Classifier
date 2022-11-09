@@ -7,7 +7,7 @@ logging.basicConfig(
     level=logging.INFO,
     format='[%(asctime)s]: %(message)s: ')
 
-package_name = "deepClassifier"
+package_name = "covidClassifier"
 
 list_of_files = [
     ".github/workflow/.gitkeep",
