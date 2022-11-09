@@ -5,9 +5,9 @@ with open("README.md", "r", encoding="utf-8") as f:
 
 __version__ = "0.0.0"
 
-REPO_NAME = "DEEPCNNCLASSIFIER"
+REPO_NAME = "Covid-19-Classifier"
 AUTHOR_USER_NAME = "vedjangid19"
-SRC_REPO = "deepClassifier"
+SRC_REPO = "covidClassifier"
 AUTHOR_EMAIL = "vedprakashjangid.jpr@gmail.com"
 
 setuptools.setup(
